@@ -1,0 +1,5 @@
+#Wed Mar 13 10:10:52 SGT 2019
+chrome="C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe
+host=localfilehistingc.cSDFDSFas
+database=c\:\\logbook\\logbook.db
+title=komputer 10 
